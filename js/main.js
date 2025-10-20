@@ -27,7 +27,7 @@ btnSi.addEventListener('click', function () {
         imagen.src =  carpetaIMG + "image_OK.gif";
         btnSi.style.display = 'none';
         btnNo.style.display = 'none';
-        mensaje.textContent = '❤ ¡Eres la casualidad más bonita que me ha pasado! 🥰❤';
+        mensaje.textContent = '❤ ¡Eres lo mejor y más bonito que la vida me ha dado te quiero niña 🩷🌷';
     });
 });
 
